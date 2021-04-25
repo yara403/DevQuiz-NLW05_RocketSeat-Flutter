@@ -1,53 +1,158 @@
-[{
-    "title": "NLW 5 Flutter",
-    "questionAnswered": 1,
-    "imagem": "blocks",
+[
+  {
+    "title": "Gerenciamento de Estado",
+    "questionAnswered": 0,
+    "imagem": "data",
     "level": "facil",
     "questions": [
-        {
-            "title": "Está curtindo o Flutter?", 
-            "answers": [
-              {"title": "Estou curtindo", "isRight": false},
-              {"title": "Amando Flutter", "isRight": false},
-              {"title": "Muito top", "isRight": false},
-              {"title": "Show de bola", "isRight": true}
-            ]
-        },
-        {
-            "title": "Está curtindo o Flutter?", 
-            "answers": [
-              {"title": "Estou curtindo", "isRight": false},
-              {"title": "Amando Flutter", "isRight": false},
-              {"title": "Muito top", "isRight": false},
-              {"title": "Show de bola", "isRight": true}
-            ]
-        }
-    ]
-},
-{
-  "title": "Construindo Interfaces",
-  "questionAnswered": 2,
-  "imagem": "laptop",
-  "level": "medio",
-  "questions": [
       {
-          "title": "Está curtindo o Flutter?", 
-          "answers": [
-            {"title": "Estou curtindo", "isRight": false},
-            {"title": "Amando Flutter", "isRight": false},
-            {"title": "Muito top", "isRight": false},
-            {"title": "Show de bola", "isRight": true}
-          ]
+        "title": "Está gostando do Flutter?", 
+        "answers": [
+          {"title": "Sim, muito", "isRight": true},
+          {"title": "Sim, porém com algumas ressalvas", "isRight": false},
+          {"title": "Mais ou menos", "isRight": false},
+          {"title": "Não, prefiro React Native", "isRight": false}
+        ]
       },
       {
-          "title": "Está curtindo o Flutter?", 
-          "answers": [
-            {"title": "Estou curtindo", "isRight": false},
-            {"title": "Amando Flutter", "isRight": false},
-            {"title": "Muito top", "isRight": false},
-            {"title": "Show de bola", "isRight": true}
-          ]
+        "title": "Está gostando da NLW?", 
+        "answers": [
+          {"title": "Sim, muito", "isRight": true},
+          {"title": "Sim, porém com algumas ressalvas", "isRight": false},
+          {"title": "Mais ou menos", "isRight": false},
+          {"title": "Não, não consegui acompanhar", "isRight": false}
+        ]
       }
-  ]
-}
+    ]
+  },
+  {
+    "title": "Construindo Interfaces",
+    "questionAnswered": 1,
+    "imagem": "laptop",
+    "level": "medio",
+    "questions": [
+      {
+        "title": "Está gostando do Flutter?", 
+        "answers": [
+          {"title": "Sim, muito", "isRight": true},
+          {"title": "Sim, porém com algumas ressalvas", "isRight": false},
+          {"title": "Mais ou menos", "isRight": false},
+          {"title": "Não, prefiro React Native", "isRight": false}
+        ]
+      },
+      {
+        "title": "Está gostando da NLW?", 
+        "answers": [
+          {"title": "Sim, muito", "isRight": true},
+          {"title": "Sim, porém com algumas ressalvas", "isRight": false},
+          {"title": "Mais ou menos", "isRight": false},
+          {"title": "Não, não consegui acompanhar", "isRight": false}
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Integração Nativa",
+    "questionAnswered": 2,
+    "imagem": "hierarchy",
+    "level": "dificil",
+    "questions": [
+      {
+        "title": "Está gostando do Flutter?", 
+        "answers": [
+          {"title": "Sim, muito", "isRight": true},
+          {"title": "Sim, porém com algumas ressalvas", "isRight": false},
+          {"title": "Mais ou menos", "isRight": false},
+          {"title": "Não, prefiro React Native", "isRight": false}
+        ]
+      },
+      {
+        "title": "Está gostando da NLW?", 
+        "answers": [
+          {"title": "Sim, muito", "isRight": true},
+          {"title": "Sim, porém com algumas ressalvas", "isRight": false},
+          {"title": "Mais ou menos", "isRight": false},
+          {"title": "Não, não consegui acompanhar", "isRight": false}
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Widgets do Flutter",
+    "questionAnswered": 0,
+    "imagem": "blocks",
+    "level": "perito",
+    "questions": [
+      {
+        "title": "Está gostando do Flutter?", 
+        "answers": [
+          {"title": "Sim, muito", "isRight": true},
+          {"title": "Sim, porém com algumas ressalvas", "isRight": false},
+          {"title": "Mais ou menos", "isRight": false},
+          {"title": "Não, prefiro React Native", "isRight": false}
+        ]
+      },
+      {
+        "title": "Está gostando da NLW?", 
+        "answers": [
+          {"title": "Sim, muito", "isRight": true},
+          {"title": "Sim, porém com algumas ressalvas", "isRight": false},
+          {"title": "Mais ou menos", "isRight": false},
+          {"title": "Não, não consegui acompanhar", "isRight": false}
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Construindo Interfaces",
+    "questionAnswered": 1,
+    "imagem": "laptop",
+    "level": "facil",
+    "questions": [
+      {
+        "title": "Está gostando do Flutter?", 
+        "answers": [
+          {"title": "Sim, muito", "isRight": true},
+          {"title": "Sim, porém com algumas ressalvas", "isRight": false},
+          {"title": "Mais ou menos", "isRight": false},
+          {"title": "Não, prefiro React Native", "isRight": false}
+        ]
+      },
+      {
+        "title": "Está gostando da NLW?", 
+        "answers": [
+          {"title": "Sim, muito", "isRight": true},
+          {"title": "Sim, porém com algumas ressalvas", "isRight": false},
+          {"title": "Mais ou menos", "isRight": false},
+          {"title": "Não, não consegui acompanhar", "isRight": false}
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Gerenciamento de Estado",
+    "questionAnswered": 2,
+    "imagem": "data",
+    "level": "medio",
+    "questions": [
+      {
+        "title": "Está gostando do Flutter?", 
+        "answers": [
+          {"title": "Sim, muito", "isRight": true},
+          {"title": "Sim, porém com algumas ressalvas", "isRight": false},
+          {"title": "Mais ou menos", "isRight": false},
+          {"title": "Não, prefiro React Native", "isRight": false}
+        ]
+      },
+      {
+        "title": "Está gostando da NLW?", 
+        "answers": [
+          {"title": "Sim, muito", "isRight": true},
+          {"title": "Sim, porém com algumas ressalvas", "isRight": false},
+          {"title": "Mais ou menos", "isRight": false},
+          {"title": "Não, não consegui acompanhar", "isRight": false}
+        ]
+      }
+    ]
+  }  
 ]

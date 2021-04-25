@@ -38,7 +38,7 @@ class _ChallengePageState extends State<ChallengePage> {
   nextPage() {
     if (controller.currentPage < widget.questions.length)
       pageController.nextPage(
-          duration: Duration(seconds: 1), curve: Curves.bounceIn);
+          duration: Duration(seconds: 1), curve: Curves.easeIn);
   }
 
   onSelected(value) {
